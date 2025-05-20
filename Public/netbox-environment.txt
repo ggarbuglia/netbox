@@ -1,0 +1,7 @@
+﻿# LOCAL ENVIRONMENT
+#$global:url = 'http://localhost:8000';
+#$global:key = '';
+
+# DOCKER TST ENVIRONMENT
+#$global:url = 'https://tst-netbox.provincianet.com.ar';
+#$global:key = '6909fda9f894110ec527b230f68d38cc5ea3ca4b';
